@@ -1,8 +1,6 @@
 <html>
     <body>
-        
-    
-        <a href="paginas/sobre">sobre</a>
+        <a href="paginas/sobre">Minha Loja Make</a>
     </body>
     
 </html>
